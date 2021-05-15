@@ -5,11 +5,11 @@
 https://prob.space/competitions/kuzushiji-mnist
 
 ## データの説明
-kmnist-test-imgs.npz[https://prob.space/competitions/kuzushiji-mnist/data/34]
+[kmnist-test-imgs.npz](https://prob.space/competitions/kuzushiji-mnist/data/34)
 
-kmnist-train-labels.npz[https://prob.space/competitions/kuzushiji-mnist/data/35]
+[kmnist-train-labels.npz](https://prob.space/competitions/kuzushiji-mnist/data/35)
 
-kmnist-train-imgs.npz[https://prob.space/competitions/kuzushiji-mnist/data/36]
+[kmnist-train-imgs.npz](https://prob.space/competitions/kuzushiji-mnist/data/36)
 
 KMNIST(Kuzushiji-MNIST)は，日本語の「くずし字」のデータセットです．
 国文学研究資料館（National Institute of Japanese Literature/ NIJL）が作成し，人文学オープンデータ共同利用センター（Center for Open Data in the Humanities / CODH）が公開しています．
@@ -19,6 +19,7 @@ KMNIST(Kuzushiji-MNIST)は，日本語の「くずし字」のデータセット
 データ数は，訓練データが60000枚，テストデータが10000枚の計70000枚です．
 
 より詳細については，以下を参照してください．
+
 https://arxiv.org/abs/1812.01718
 
 ## 評価方法
